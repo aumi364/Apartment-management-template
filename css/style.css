@@ -2973,13 +2973,7 @@ h6 {
     width: 42px;
     cursor: pointer;
     color: #fff; }
-    .row{
-      background:linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-      padding:2rem;
-    }
-    p{
-      color:black;
-    }
+    
 
 .social_widget p {
   font-size: 14px;
